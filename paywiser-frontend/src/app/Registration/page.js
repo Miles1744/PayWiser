@@ -1,7 +1,8 @@
 'use client';
 
-const Reset = () => {
-    return <div>Reset</div>;
+
+const Register = () => {
+    return <div>Register</div>;
   };
   
-  export default Reset;
+  export default Register;

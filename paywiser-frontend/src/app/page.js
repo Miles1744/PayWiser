@@ -1,4 +1,10 @@
+"use client";
 import "./home.css";
+import React  from 'react';
+import Link  from 'next/link';
+
+
+
 export default function Home() {
   return (
     <main>
@@ -16,7 +22,7 @@ export default function Home() {
           PayWiser to take control of your debt and achieve financial
           confidence!
         </p>
-        <button className="get-start">Get Started!</button>{" "}
+        <Link href="/Registration" className="get-start">Get Started!</Link>
         {/* Added button element */}
         <div className="TitleC"></div>
       </div>
