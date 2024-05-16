@@ -16,6 +16,7 @@ export default function Home() {
           PayWiser to take control of your debt and achieve financial
           confidence!
         </p>
+        <button className = "get-start">Get Started!</button> {/* Added button element */}
         <div className="TitleC"></div>
       </div>
     </main>

@@ -27,3 +27,17 @@
 .TitleC {
   margin-top: 20px;
 }
+
+.get-start {
+    background-color: #c39cc5; /* Green background */
+    border: none;
+    color: white; /* White text */
+    padding: 15px 32px; /* Padding */
+    text-align: center; /* Centered text */
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px; /* Font size */
+    margin: 7px; /* Margin */
+    cursor: pointer; /* Pointer cursor */
+    border-radius: 15px; /* Rounded corners */
+  }  
