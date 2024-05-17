@@ -1,11 +1,8 @@
 {
-	"folders": [
-		{
-			"path": ".."
-		},
-		{
-			"path": "../../../Downloads/PayWiser-main 4/PayWiser-main 4/paywiser-frontend"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "../../../Desktop/PayWiser-main 4",
+    },
+  ],
+  "settings": {},
 }
